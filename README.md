@@ -23,4 +23,4 @@ Para exemplo prático utilizaremos o famoso conjunto de dados do _titanic_, onde
 9. Exportação do modelo e,
 10. Reutilização do modelo.
 
-Link do [notebook](https://colab.research.google.com/drive/1Hdm3JxVQPlDgLjXkBqPzsnnFLDkcMQsl#scrollTo=0SjhAtiiRoAe).
+Segue o link do [notebook](https://colab.research.google.com/drive/1Hdm3JxVQPlDgLjXkBqPzsnnFLDkcMQsl#scrollTo=0SjhAtiiRoAe).
